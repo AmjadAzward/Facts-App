@@ -1,6 +1,8 @@
-##  Setup Guide – Fact Generator Web App
+##  Fact Generator Web App
 
 > A lightweight, single-page web application that displays random facts with support for **dark mode toggle** and **Twitter sharing**.
+
+![Screenshot](https://raw.githubusercontent.com/AmjadAzward/Facts-App/main/Facts/Images/Screenshot%202025-06-19%20004423.png)
 
 ---
 
